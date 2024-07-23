@@ -23,13 +23,29 @@ Mentor: Neela Kumar
 Project Objective
 
 
+
+
+
+
 The primary objective of this project is to design and develop a specialized computing device that monitors and 
 displays temperature and humidity levels using the DHT11 sensor. 
 This project aims to enhance understanding of sensor applications in embedded systems and real-time data processing.
 
 
 
+
+
+
+
+
 Key Activities
+
+
+
+
+
+
+
 
 
 🌡️ Design and Development: Create a specialized computing device that utilizes the DHT11 sensor to accurately measure temperature and humidity levels.
@@ -53,6 +69,9 @@ Key Activities
 
 
 Technologies Used
+
+
+
 
 
 
